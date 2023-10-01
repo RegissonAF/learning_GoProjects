@@ -2,7 +2,7 @@ package main
 import "fmt"
 
 func main() {
-  const ebulicaoAguaK int16 = 373 //Graus Celcius
+  const ebulicaoAguaK int16 = 373 //Kelvin
   var Celcius int16 = 0
   var Kelvin int16 = Celcius + 273
 
